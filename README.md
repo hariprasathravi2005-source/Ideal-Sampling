@@ -1,4 +1,4 @@
-# Ideal, Natural, & Flat-top -Sampling
+[w3.pdf](https://github.com/user-attachments/files/22452925/w3.pdf)# Ideal, Natural, & Flat-top -Sampling
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 # Tools required
@@ -152,10 +152,11 @@ plt.tight_layout()
 plt.show()
 
 # Output Waveform
+[w1.pd[w2.pdf](https://github.com/user-attachments/files/22452912/w2.pdf)
+f](h[w3.pdf](https://github.com/user-attachments/files/22452919/w3.pdf)
+[w2.pdf](https://github.com/user-attachments/files/22452927/w2.pdf)
 
-[w1.pdf](https://github.com/user-attachments/files/22440095/w1.pdf)
-[w2.pdf](https://github.com/user-attachments/files/22440096/w2.pdf)
-[w3.pdf](https://github.com/user-attachments/files/22440097/w3.pdf)
+
 
 # Results
 Thus the ideal,Natural,Flat-top smapling verified.
